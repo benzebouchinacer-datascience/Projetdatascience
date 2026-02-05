@@ -25,4 +25,5 @@ print(f"not True: {not x}")
 p = 5  # 0b0101 
 q = 3  # 0b0011
 print(f"\np & q: {p & q}")  # AND
-print(f"p | q: {p | q}")  # OR
+print(f"p | q: {p | q}")  # OR  
+print("*************************")
