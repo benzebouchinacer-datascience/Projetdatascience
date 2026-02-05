@@ -27,3 +27,7 @@ q = 3  # 0b0011
 print(f"\np & q: {p & q}")  # AND
 print(f"p | q: {p | q}")  # OR  
 print("*************************")
+print(f"p ^ q: {p ^ q}")  # XOR
+print(f"~p: {~p}")        # NOT 
+print(f"p << 1: {p << 1}")  # Left Shift
+print(f"p >> 1: {p >> 1}")  # Right Shift
