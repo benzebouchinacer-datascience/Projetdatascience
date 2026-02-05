@@ -21,3 +21,8 @@ y = False
 print(f"\nTrue and False: {x and y}")
 print(f"True or False: {x or y}")
 print(f"not True: {not x}")
+# Bitwise Operators
+p = 5  # 0b0101 
+q = 3  # 0b0011
+print(f"\np & q: {p & q}")  # AND
+print(f"p | q: {p | q}")  # OR
